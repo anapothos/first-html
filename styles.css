@@ -1,0 +1,21 @@
+.kitten {
+    color: goldenrod;
+    border: solid 2px black;
+}
+h3 {
+    color: gray;
+}
+a {
+    color: aliceblue; 
+    font-family: 'Trebuchet MS';
+}
+p {
+    font-size: 18px;
+}
+.blah {
+    color: gray;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 10px;
+    justify-content: space-around;
+    display: flex;
+}
